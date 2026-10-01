@@ -24,7 +24,7 @@ $conex = mysqli_connect($hostname, $username, $password, $database);
 //     exit;
 // }
 
-echo '<pre>';
+// echo '<pre>';
 
-$conex = mysqli_connect($hostname, $username, $password, $database);
+// $conex = mysqli_connect($hostname, $username, $password, $database);
 
